@@ -1,0 +1,3 @@
+telethon
+quart
+nest_asyncio
